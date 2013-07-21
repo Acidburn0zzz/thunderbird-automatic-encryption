@@ -1,0 +1,2 @@
+thunderbird-automatic-encryption
+================================
